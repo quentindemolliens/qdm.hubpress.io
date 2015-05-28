@@ -1,6 +1,6 @@
 = Retour sur le Salon des Vins de Loire 2015 @Angers
 :hp-image: http://upload.wikimedia.org/wikipedia/commons/7/79/Vignobles_val_de_loire.png
-:hp-tags: svl15, vin, valdeloire, vigneron, cuvée2014, La levée de la Loire,
+:hp-tags: digital, svl15, vin, valdeloire, vigneron, cuvée2014, La levée de la Loire,
 
 
 Je me suis rendu à la 29ème édition du **salon des vins de Loire** https://tagboard.com/SVL15/search[#SVL15] début février 2015 pour rencontrer des **vignerons ligériens**.
