@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "quentindemolliens",
-    "repositoryName": "quentindemolliens.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"quentindemolliens","repositoryName":"quentindemolliens.github.io","branch":"master"},"site":{"title":"Le blog de Quentin de Molliens","postsPerPage":"5","url":"https://quentindemolliens.github.io"},"socialnetwork":{"email":"hello@qdm.fr","twitter":"https://twitter.com/quentin2mollien","googleplus":"https://plus.google.com/+QuentindeMollienspro/posts","linkedin":"https://www.linkedin.com/in/quentindemolliens","instagram":"https://instagram.com/les_vdc","pinterest":"https://www.pinterest.com/quentin2mollien/","github":"https://github.com/quentindemolliens"},"theme":{"name":"Casper","url":"//quentindemolliens.github.io/themes/Casper"}}
