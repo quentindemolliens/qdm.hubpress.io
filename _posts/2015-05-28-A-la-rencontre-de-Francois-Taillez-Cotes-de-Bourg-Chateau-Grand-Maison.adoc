@@ -4,13 +4,18 @@
 
 Lors de mon court séjour dans http://www.cotes-de-bourg.com[les **Côtes de Bourg**], en février dernier, j’ai fait la découverte du http://www.grandmaison-bourg.com/[**Château Grand Maison**], propriété de 6 hectares. Arrivé en fin de matinée, j’ai rencontré un des 3 associés propriétaires, http://www.grandmaison-bourg.com/#apropos[**François Taillez**].
 
-Le relief en **coteaux argilo-calcaire**, une des spécificités topographiques de la **petite suisse girondine** - surnom donné aux [**Côtes de Bourg**] - offre une diversisté d'**expositions favorables** à la formation d'un **micro climat**. En effet, la conjonction de courants d'air chaud et vents de l'atlantique favorise une **pluviométrie faible** par rapport à l'ensemble des **vignobles du bordelais**.
+==== Une vue imprenable
+Le http://www.grandmaison-bourg.com/[**Château Grand Maison**] culmine à 80 m d’altitude et est orienté sud. La vue y est appréciable, notamment lorsqu’elle est documentée par notre hôte du jour, **François Taillez**.
 
-video::pmQWQjNH5-Y[youtube]
+Malgré des nuages bas et un ciel relativement bouché, on distingue au loin la ville de **Bordeaux** et son pont d’Aquitaine. En “dézoomant”, on aperçoit les derniers hectomètres parcourus par la **Dordogne**, long du **bec d’Ambes**, avant de qu’elle ne rencontre la Garonne pour former **l’estuaire de la Gironde**.
+
+Le relief en coteaux argilo-calcaire, une des spécificités topographiques de **la petite suisse girondine** - surnom donné aux http://www.cotes-de-bourg.com[**Côtes de Bourg**] - offre une diversité d’expositions favorables à la formation d’un micro climat. En effet, la conjonction de courants d’air chaud et vents de l’atlantique favorise une **pluviométrie faible** par rapport à l'ensemble des **vignobles du bordelais**.
+
 '''
-
 ==== Les "indiscressions" sur la cuvée 2013 du Château Grand Maison
-**François Taillez** était fier de nous annoncer que la résultat du travail pour la **cuvée 2013** était très interessant et de **qualité**. Un peu comme leur 2007. Ce vin n'est pas forcement taillé pour la garde mais plutôt un vin **plaisir**. Un bon plan pour les amateurs, puisque 2013 est souvent référencée comme une année de maladie, catastrophique dans le **bordelais** en ce qui concerne notamment les rendements.
+**François Taillez** était fier de nous annoncer que la résultat du travail pour la **cuvée 2013** était très interessant et de **qualité**.Un peu comme leur 2007 ! Ce vin n’est pas forcement taillé pour la garde mais plutôt un vin **plaisir**. 
+
+Un bon plan pour les amateurs, puisque 2013 est souvent référencée comme une année de maladie, catastrophique dans le **bordelais** en ce qui concerne notamment les rendements.
 ++++
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/zcjM9spyA9/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Dégusation #chateaugrandmaison en sortie de cuve ! #2013 #côtesdebourg au chais ! Année réputée difficile dans le Bordelais. Les rendements sont certes faibles mais la qualité est bien plus que présente. #bonplan :)</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une photo publiée par Vin à la Carte (@vinalacarte) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-23T13:54:28+00:00">23 Févr. 2015 à 5h54 PST</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
@@ -23,7 +28,9 @@ François Taillez nous explique que les **vignes ont une moyenne d’âge de 45 
 
 ==== Les cépages
 
-**L’encépegament n'est pas pas classique** : 85% de **merlot et le reste au profit du malbec**. Dans un article de http://www.terredevins.com/actualites/primeurs-chateau-grand-maison-notre-situation-geographique-nous-sauves/[Terre de vins] consacré au Château, il est même précisé que le pourcentage de malbec est de 18%. "Cela permet une des meilleures expressions spécifiques de ces **terroirs**".
+**L’encépegament n'est pas pas classique** : 85% de **merlot et le reste au profit du malbec**. Dans un article de http://www.terredevins.com/actualites/primeurs-chateau-grand-maison-notre-situation-geographique-nous-sauves/[Terre de vins] consacré au Château, il est même précisé que le pourcentage de malbec est de 18%. 
+
+"Cela permet une des meilleures expressions spécifiques de ces **terroirs**".
 
 ==== Le renouvellement
 
