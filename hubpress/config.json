@@ -4,9 +4,6 @@
     "repositoryName": "quentindemolliens.hubpress.io",
     "branch": "master"
   },
-  "site": {
-    "title": "QDM, le blog de Quentin de Molliens","description": "Je partage avec vous mes réflexions, ma veille et tout ce qui m'interpelle.","logo": "","cover": "","postsPerPage": "5","googleAnalytics": "","disqus": "","url": "https://quentindemolliens.github.io"}
-  }
   "theme": {
     "name": "Casper"
   }
