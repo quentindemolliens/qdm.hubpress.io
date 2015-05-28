@@ -7,39 +7,44 @@ Je me suis rendu à la 29ème édition du **salon des vins de Loire** https://ta
 
 Sur plus de 400 exposants, j’ai pris le temps de “croiser” près d’une 20aine de **vignerons indépendants**, des coopératives, des cavistes, des restaurateurs et des représentants.
 
-=== Le match : viti vs digital !
+=== Le match : vignerons vs digital !
 Oui, **la filière viticole cherche à se digitaliser**. Néanmoins, cette évolution se traduit dans un contexte où ce sont les consommateurs qui poussent. En effet, leurs usages viennent aujourd'hui bousculer les procédés et les pratiques de ventes "traditionnelles".
 
 Ne leur jettons pas la pierre. Si la majorité des vignerons progresse à tâtons, on constate tout de mêm qu'ils avancent. Grâce à la collaboration entre générations de **vignerons**, on note un intérêt croissant chez les plus jeunes pour l'utilisation des réseaux comme services d'avant et après vente.
 
-Il reste que de passer au **digital** est un investissement en temps et chez nos **partenaires vignerons**, le temps est plus que précieux ! D'autant que la vision ROIste est très présente et l'efficacité du digitale se doit d'être court termiste en vue de son adoptation.
+Il reste que de passer au **digital** est un investissement en temps et chez les **vignerons**, le temps est plus que précieux ! D'autant que la vision ROIste est très présente et l'efficacité du digitale se doit d'être court termiste en vue de son adoptation.
 
 === Une méfiance tenace vis à vis des prestataires "web".
-Nous avons testé au cours de ces 2 jours de salon, une approche commerciale pas toujours la bienvenue.
-Par conséquent, nous avons réajusté notre discours. Il faut d'abord du **pragmatisme**, de l'écoute et de la maturité face à ces viticulteurs, comme je le précisais ci-dessus, très portés sur le ROI.
+J’ai testé au cours de ces 2 jours de salon, une approche commerciale des services de http://qdm.fr[qdm.fr] pas toujours la bienvenue.
 
-Une remarque, néanmoins. Il semble qu'il y ait eu ces dernières années, un démarchage plus qu'agressif de boites du "web" prétendant qu'une vitrine jolie et design (site web année 90' style) suffisait pour faire de l'internet. Vu le couac et le nombre de sites en flash, la défiance vis à vis des marketeux et autres communicants est palpable.
+Par conséquent, j'ai réajusté mon discours. Il faut d'abord faire preuve de **pragmatisme**, d'écoute et de maturité face à ces **viticulteurs**, comme je le précisais ci-dessus, très portés sur le ROI.
+
+==== Une remarque : mauvaise réputation des prestations numériques.
+
+Une remarque, néanmoins. Il semble qu'il y ait eu ces dernières années, un démarchage plus qu'agressif de boites du "web" prétendant qu'une vitrine jolie et design suffisait pour faire de l'internet. Vu le couac et le nombre de sites en flash, la défiance vis à vis des marketeux et autres communicants est palpable.
 
 ++++
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/zIQohbpyKk/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">#svl15 rencontre du château de la #franchaie conduit par #loicmahe en #agriculture #biologique. dégustation des cuvées 2014 qui donnent le sourire #anjou #savennieres</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une photo publiée par Vin à la Carte (@vinalacarte) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-15T16:47:23+00:00">15 Févr. 2015 à 8h47 PST</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 ++++
 
-=== Des vignerons à l'écoute
-Certains nous ont clairement fait savoir qu'ils n'étaient pas interessés pour utiliser https://vinalacarte.com[**Vin à la Carte**] et **développer l'attractivité de leur domaine et de leurs déplacements**, notamment les grandes maisons. Ce qui est compréhensible puisqu'elles ont généralement des cellules com en interne. Cela étant dit, il sera interessant de revenir au contact une fois que nos résultats seront plus importants.
+=== J'ai trouveé des vignerons à l'écoute
+Certains nous ont clairement fait savoir qu'ils n'étaient pas interessés pour **développer l'attractivité digitale de leur domaine et de leurs déplacements** , notamment les grandes maisons. Ce qui est compréhensible puisqu'elles ont généralement des cellules com en interne. Cela étant dit, il sera interessant de revenir au contact une fois que nos résultats seront plus importants.
 
-Les rencontres positives ont été nombreuses, notamment avec les domaines qui pratiquent **la vente en directe** au domaine et en salon, comme un pilier de leur stratégie commerciale.
+Les rencontres positives ont été nombreuses, notamment avec les domaines qui pratiquent **la vente en directe** au domaine et en salon comme un pilier de leur **stratégie commerciale**.
 
+==== Points d'accord
 Aussi, les points d'accord se sont principalement recentrés autour des principes suivants :
 
 * **La vente en directe** est une clé pour transmettre le **savoir-faire** et créer de la **notoriété** autour du domaine.
 * Les échanges avec notre clientèle future et existante est facilitée par le numérique.
 * La relation client numérique est chronophage.
-* Le développement de **prestations complémentaires au domaine**, liées à l'**oenotourisme** est une tendance forte qui s'inscrit dans les perspectives de rentrées économiques à court et moyen terme.
+* Le développement de **prestations complémentaires au domaine**, liées à l'**oenotourisme** est une tendance forte qui s'inscrit dans leurs perspectives de rentrées économiques à court et moyen terme.
 
 ++++
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/zIXSZYpyJD/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Le sourire du Vigneron Fabrice Baron #fabricebaron #saumur après la présentation de ses 2014 #domainedesgarennes ! Après 3 années difficiles le 2014 est vraiment une belle année dans le saumurois. #domainedesgarennes #saumurblanc #saumurouge #cremantdeloire #svl15 #valdeloire</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une photo publiée par Vin à la Carte (@vinalacarte) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-02-15T17:45:32+00:00">15 Févr. 2015 à 9h45 PST</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 ++++
+Retrouvez le vigneron Fabrice Baron sur la https://www.facebook.com/domaine.desgarennes?fref=ts[Page Facebook] de son Domaine "Domaine des Garennes".
 
 Merci à **Morgane** pour sa participation à notre venue au #SVL15.
