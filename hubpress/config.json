@@ -7,8 +7,8 @@
   },
   "site": {
     "title": "Blog - Quentin de Molliens",
-    "description": "Le blog de Quentin de Molliens, Consultant et Formateur en Médias Sociaux pour TPE et PME. Mes billets sont rédigés sous la forme de courtes histoires. Ils sont consacrés à mettre en valeur les expériences clients de QDM, ma revue de presse ainsi que mes propres réflexions et découvertes. Vous y trouverez donc des cas concrets de relationnel digital, des rencontres avec des clients atypiques, et mes revues de presse. Bonnes lectures.",
-    "logo": "http://qdm.fr/img/quentindemolliens.png",
+    "description": "",
+    "logo": "",
     "cover": "https://pbs.twimg.com/profile_banners/8220952/1432718326/1500x500",
     "postsPerPage": "5",
     "googleAnalytics": "UA-63300515-3",
@@ -38,7 +38,7 @@
   "urls": {
     "site": "https://quentindemolliens.github.io",
     "hubpress": "http://quentindemolliens.github.io",
-    "theme": "//quentindemolliens.github.io/themes/casper",
+    "theme": "//quentindemolliens.github.io/themes/uno",
     "images": "https://quentindemolliens.github.io/images"
   },
   "initialisationConfigComponent": {
