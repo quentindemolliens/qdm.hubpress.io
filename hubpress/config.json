@@ -37,7 +37,7 @@
   },
   "urls": {
     "site": "https://quentindemolliens.github.io",
-    "hubpress": "https://quentindemolliens.github.io",
+    "hubpress": "http://quentindemolliens.github.io",
     "theme": "//quentindemolliens.github.io/themes/casper",
     "images": "https://quentindemolliens.github.io/images"
   },
