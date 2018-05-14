@@ -32,13 +32,13 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "uno",
+    "name": "uno-zen",
     "url": "//quentindemolliens.github.io/themes/Casper"
   },
   "urls": {
     "site": "https://quentindemolliens.github.io",
     "hubpress": "http://quentindemolliens.github.io",
-    "theme": "//quentindemolliens.github.io/themes/saga",
+    "theme": "//quentindemolliens.github.io/themes/uno",
     "images": "https://quentindemolliens.github.io/images"
   },
   "initialisationConfigComponent": {
